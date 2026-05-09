@@ -4,7 +4,8 @@
 
 ---
 
-## 07-05-2026
+## 07-05-2026 — Day 1
+
 ### 1. Cloned the repository and ran the YOLO Vision Studio app
 - Cloned the repository: `yolo-streamlit-detection-tracking`
 - Set up Python virtual environment (`venv`)
@@ -20,7 +21,7 @@
 
 ---
 
-## 09-05-2026 — Day 2
+## 09-05-2026 — Day 3
 
 ### 1. Company & Product Research
 - Explored AparSoft's full product portfolio on their website
