@@ -77,4 +77,52 @@ The `yolo-streamlit-detection-tracking` repository I am working on uses YOLO —
 
 ---
 
+## 10-05-2026 — Day 4
+
+### 1. Workstation Migration & Environment Setup
+*   Successfully moved my entire development workspace over to a new MacBook Air.
+*   Configured the terminal and installed the core tools required for the internship: Python 3.x, Git, and VS Code.
+*   Verified that the Python virtual environment (`venv`) is working correctly to keep project libraries isolated from system files.
+
+### 2. Git Workflow & Version Control
+*   Learned the professional "save" process: staging files with `git add`, saving them with a `commit` message, and sending them to GitHub with `git push`.
+*   Practiced managing the connection between my local machine, my personal GitHub fork (`AnanyaSingh2406`), and the company’s main repository.
+*   Organized the project's folder structure to ensure it remains clean as the internship progresses.
+
+---
+
+## 11-05-2026 — Day 5
+
+### 1. Technical Deep Dive: YOLO & Streamlit
+*   **YOLO (You Only Look Once):** Gained a detailed understanding of how this real-time object detection system works, specifically how it processes entire images in a single pass for high speed and accuracy.
+*   **Streamlit Framework:** Learnt the logic of turning Python scripts into interactive web apps, focusing on how it manages state and UI components without needing HTML/CSS.
+
+### 2. Computer Vision Concepts & Dataset Overview
+*   Looked over the **COCO Dataset** (Common Objects in Context) to understand the standard library of images used to train models like YOLO.
+*   Mapped out the core differences between the four main types of Vision AI tasks:
+    *   **Image Classification:** Identifying the main subject of a photo.
+    *   **Object Detection:** Finding multiple objects and drawing "bounding boxes" around them.
+    *   **Object Tracking:** Following a specific object's movement across a video.
+    *   **Identification vs. Recognition:** Telling the difference between a general category (like "a car") and a specific unique item.
+
+### 3. QA & Product Testing Preparation
+*   Researched professional software testing methods to prepare for upcoming audits of AparSoft’s products.
+*   Identified what to check for when testing the **Apar Chatbot**, **FireIQ**, and the **WhatsApp Chatbot**.
+
+---
+
+## 12-05-2026 — Day 6
+
+### 1. Repository Organization & Documentation
+*   Created a dedicated `internship-docs/` folder to keep progress reports and research separate from the actual code.
+*   Divided this folder into `learnings/` and `progress/` sub-folders for better organization.
+*   Moved earlier research files (like `AparSoft_Report.md`) into these new folders using the Mac terminal.
+
+### 2. Technical Audit of the YOLO-Streamlit App
+*   Performed a deep dive into the `app.py` and `README.md` files to understand how the Streamlit web interface communicates with the YOLO AI model.
+*   Analyzed how the current app handles object tracking to identify potential areas for speed or accuracy improvements.
+*   Developed a list of ideas for making the website more user-friendly and adding more detailed tracking metrics.
+
+---
+
 *Progress log maintained as part of internship documentation requirement.*
