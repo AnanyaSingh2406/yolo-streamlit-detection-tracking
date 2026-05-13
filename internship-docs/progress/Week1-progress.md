@@ -119,8 +119,7 @@ The `yolo-streamlit-detection-tracking` repository I am working on uses YOLO —
 *   Moved earlier research files (like `AparSoft_Report.md`) into these new folders using the Mac terminal.
 
 ### 2. Technical Audit of the YOLO-Streamlit App
-*   Performed a deep dive into the `app.py` and `README.md` files to understand how the Streamlit web interface communicates with the YOLO AI model.
-*   Analyzed how the current app handles object tracking to identify potential areas for speed or accuracy improvements.
+*   Performed a deep dive into the `README.md` file to understand how the Streamlit web interface communicates with the YOLO AI model.
 *   Developed a list of ideas for making the website more user-friendly and adding more detailed tracking metrics.
 
 ---
