@@ -52,7 +52,6 @@ Based on my initial exposure to the codebase and product lineup, AparSoft demons
 - **Computer Vision:** Use of YOLO models for real-time object detection and tracking (as seen in the internship project and FireIQ)
 - **RAG Architecture:** The Apar Chatbot uses pgvector-based Retrieval Augmented Generation, which is a modern and effective approach for building intelligent, document-aware chatbots
 - **Full-Stack AI Development:** Products span from model training and inference to user-facing web applications built with tools like Streamlit
-- **Open Source Contribution:** Mention of FOSSEE in the internship offer letter suggests engagement with India's open-source academic community
 
 ---
 
