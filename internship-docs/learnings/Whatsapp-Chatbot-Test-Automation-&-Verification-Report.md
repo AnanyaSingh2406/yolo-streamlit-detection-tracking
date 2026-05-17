@@ -1,6 +1,6 @@
 # Test Automation & Verification Report
 
-**Project:** Apar Chatbot Test
+**Project:** Apar WhatsApp Chatbot Test
 
 **Tester:** Ananya Singh
 
