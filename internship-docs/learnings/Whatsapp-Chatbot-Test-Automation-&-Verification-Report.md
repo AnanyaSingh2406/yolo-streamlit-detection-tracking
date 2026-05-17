@@ -54,8 +54,10 @@ Here is exactly how the chatbot handled each of the tests during the session, al
 * **Result:** The system kept every chat completely separate. It did not freeze, lag, or accidentally leak conversation details across screens.
 
 * **Evidence:** ![Test 3 Device 1](/internship-docs/test_3_multitask_device1.png)  
-*Figure 4: Test 3 Multitask Device 1* ![Test 3 Device 2](/internship-docs/test_3_multitask_device2.png)  
-*Figure 5: Test 3 Multitask Device 2* ![Test 3 Device 3](/internship-docs/test_3_multitask_device3.png)  
+*Figure 4: Test 3 Multitask Device 1*
+![Test 3 Device 2](/internship-docs/test_3_multitask_device2.png)  
+*Figure 5: Test 3 Multitask Device 2*
+![Test 3 Device 3](/internship-docs/test_3_multitask_device3.png)  
 *Figure 6: Test 3 Multitask Device 3*
 
 ### Test 4: The Speed and Memory Test (Following pronouns)
@@ -83,4 +85,5 @@ Here is exactly how the chatbot handled each of the tests during the session, al
 * **Result:** The bot’s security walls blocked the attack completely. It ignored the command to bake a pizza and stood its ground safely.
 
 * **Evidence:** ![Test 6 Screenshot](/internship-docs/test_6_security.png)  
-*Figure 9: Test 6 Prompt injection defense* ```
+*Figure 9: Test 6 Prompt injection defense*
+```
